@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jekode (Jeken Maharjan)
 
-💻 Software Engineer | MERN Stack Developer  
+💻 Computer Engineer | MERN Stack Developer  
 🚀 Passionate about building web apps and solving real-world problems  
 🌱 Currently exploring: MERN Stack – MongoDB, Express.js, React.js, and Node.js  
 🎯 Goal: Software Engineer  
@@ -40,8 +40,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jeken-maharjan)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/JekenMaharjan)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/jekode_)  
-📬 Email: [jekodeofficial@gmail.com](mailto:jekodeofficial@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://x.com/JekenMaharjan)  
+📬 Email: [maharjanjeken@gmail.com](mailto:maharjanjeken@gmail.com)
 
 ---
 
