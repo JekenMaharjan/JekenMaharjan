@@ -2,8 +2,8 @@
 
 💻 Software Engineer | MERN Stack Developer  
 🚀 Passionate about building web apps and solving real-world problems  
-🌱 Currently exploring: Next.js, TypeScript, and Open Source  
-🎯 Goal: Become a world-class full-stack developer  
+🌱 Currently exploring: MERN Stack – MongoDB, Express.js, React.js, and Node.js  
+🎯 Goal: Software Engineer  
 📍 Based in Nepal | ⏳ Always learning & leveling up
 
 ---
