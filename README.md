@@ -9,13 +9,23 @@
 ---
 
 ## 🔧 Tech Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+
 
 ---
 
