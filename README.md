@@ -10,9 +10,22 @@
 - 🧑‍💻 Currently exploring **MERN Stack** & **Laravel**
 - 📚 Learning in public & building side projects
 - 🎯 Goal: To become a **Professional Software Engineer**
-- 🛠️ Tools I use: Vite, GitHub, VS Code, Figma, and Postman
 - 🌱 Currently working on **OfficeCare** (an e-commerce platform)
 - 🎓 Data Fellowship 2025 | GitHub Foundation Certified
+
+---
+
+## 🛠️ Tools I Use
+
+- 💻 VS Code, GitHub, Git Bash
+- 🔧 Postman, MongoDB Compass, phpMyAdmin
+- 🎨 Canva
+- ⚙️ npm, Vite, XAMPP
+- 🚀 Vercel
+- 📌 Notion, GitHub Projects
+
+
+---
 
 ## 🔧 Tech Stack
 
@@ -50,15 +63,24 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JekenMaharjan&layout=compact&theme=tokyonight)
 
+
+---
+
 ## 🔥 GitHub Streak & Contribution Graph
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JekenMaharjan&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![JekenMaharjan's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=JekenMaharjan&theme=react-dark&hide_border=true)
 
+
+---
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JekenMaharjan&theme=monokai&row=1&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+---
 
 ## 👁‍🗨 Profile Views
 
@@ -77,4 +99,5 @@
 ---
 
 > ⚡ *Fun Fact:* I go by the nickname **Jekode** — blending code with my name 😊
+
 > ⭐️ _Thanks for visiting my profile!_
