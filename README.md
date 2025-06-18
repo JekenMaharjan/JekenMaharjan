@@ -59,14 +59,12 @@
 
 ## 📊 GitHub Stats
 
-![Jeken's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JekenMaharjan&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JekenMaharjan&layout=compact&theme=tokyonight)
+![Jeken's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JekenMaharjan&show_icons=true&theme=tokyonight)     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JekenMaharjan&layout=compact&theme=tokyonight)
 
 
 ---
 
-## 🔥 GitHub Streak & Contribution Graph
+## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JekenMaharjan&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
