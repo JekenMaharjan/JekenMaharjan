@@ -63,7 +63,7 @@
 
 ---
 
-## 📊 GitHub Stats, Streak and Top Languages
+## 📊 GitHub Stats, GitHub Streak and Most used Languages
 
 <div align="center">
   
@@ -80,7 +80,14 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JekenMaharjan&theme=monokai&row=1&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=JekenMaharjan&theme=monokai&row=1&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+  </a>
+
+</div>
+
 
 
 ---
