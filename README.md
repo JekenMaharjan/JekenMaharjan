@@ -44,6 +44,14 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JekenMaharjan&layout=compact&theme=tokyonight)
 
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JekenMaharjan&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+## 👁‍🗨 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=JekenMaharjan&label=Profile%20views&color=0e75b6&style=flat)
+
 ---
 
 ## 🌐 Connect with Me
