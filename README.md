@@ -63,7 +63,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats, Streak and Top Languages
 
 <div align="center">
   
@@ -74,13 +74,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JekenMaharjan&layout=compact&theme=radical" alt="Top Languages" />
 
 </div>
-
-
----
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JekenMaharjan&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 ---
