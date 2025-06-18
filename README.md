@@ -65,7 +65,15 @@
 
 ## 📊 GitHub Stats
 
-![Jeken's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JekenMaharjan&show_icons=true&theme=tokyonight)     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JekenMaharjan&layout=compact&theme=tokyonight)
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=JekenMaharjan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JekenMaharjan&theme=radical" alt="GitHub Streak" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JekenMaharjan&layout=compact&theme=radical" alt="Top Languages" />
+
+</div>
 
 
 ---
