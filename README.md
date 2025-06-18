@@ -3,6 +3,10 @@
 💻 Computer Engineer | MERN Stack Developer  
 🚀 Passionate about building web apps and solving real-world problems
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=440&lines=Full+Stack+Developer;Laravel+%7C+MERN+Stack+%7C+Python+Lover;Learning+in+Public+%7C+Open+Source+Contributor" />
+</p>
+
 ---
 
 ## 💫 About Me
