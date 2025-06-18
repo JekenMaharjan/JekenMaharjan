@@ -1,8 +1,9 @@
 # 👋 Hey, I'm Jekode (Jeken Maharjan)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=440&lines=Full+Stack+Developer;Laravel+%7C+MERN+Stack+%7C+Python+Lover;Learning+in+Public+%7C+Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0FF5D2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jeken+Maharjan!;Computer+Engineer+%7C+Full+Stack+Web+Developer;MERN+Stack+%7C+Laravel+%7C+Python+%7C+Flask;Learning+in+Public+%F0%9F%93%9A+Building+Awesome+Projects" />
 </p>
+
 
 💻 Computer Engineer | MERN Stack Developer  
 🚀 Passionate about building web apps and solving real-world problems
