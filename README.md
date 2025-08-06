@@ -1,4 +1,4 @@
-# 🙏 Namaste, I'm Jekode (Jeken Maharjan)
+# 🙏 Namaste, I'm Jeken Maharjan
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0FF5D2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jeken+Maharjan!;Computer+Engineer+%7C+Full+Stack+Web+Developer;MERN+Stack+%7C+Laravel;Learning+in+Public+%F0%9F%93%9A+Building+Cool+Projects" />
