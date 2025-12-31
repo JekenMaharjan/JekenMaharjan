@@ -66,26 +66,6 @@
   
 ---
 
-## 📊 GitHub Stats, GitHub Streak and Most used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JekenMaharjan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JekenMaharjan&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JekenMaharjan&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JekenMaharjan&theme=monokai&row=1&margin-w=10&no-frame=true" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
 ## 👁‍🗨 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JekenMaharjan&label=Profile%20views&color=0e75b6&style=flat)
