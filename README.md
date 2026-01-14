@@ -42,13 +42,11 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoWidth=25)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoWidth=25)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoWidth=25)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux&logoWidth=25)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&logoWidth=25)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite&logoWidth=25)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss&logoWidth=25)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoWidth=25)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman&logoWidth=25)
-![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress&logoWidth=25)
 
 ---
 
