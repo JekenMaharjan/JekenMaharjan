@@ -77,6 +77,6 @@
 
 ---
 
-> ⚡ *Fun Fact:* I go by the nickname **Jekode** — blending code with my name 😊
+> *Fun Fact:* I go by the nickname **Jekode** — blending code with my name 😊
 
-> ⭐️ _Thanks for visiting my profile!_
+> _Thanks for visiting my profile!_
