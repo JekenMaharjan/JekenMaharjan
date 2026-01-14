@@ -52,10 +52,10 @@
 
 ## 🚀 Featured Projects
 
-- [**Interview Preparation Platform **](https://github.com/JekenMaharjan/Interview-Preparation-Platform) — A frontend-only interview preparation platform to help developers track topics, progress, and notes while preparing for technical interviews. 
-- [**Personal Portfolio**](https://github.com/JekenMaharjan/my-portfolio) — Personal Portfolio built using Next.js, TailwindCSS, and ShadCN UI featuring project showcase, skills, and dynamic sections.  
-- [**Lottery Game**](https://github.com/JekenMaharjan/LotteryGame) — A fun slot machine where you have 3 lives to match symbols. Win and enjoy a confetti celebration! 
-- [**Task Management App**]([https://github.com/JekenMaharjan/AdvancedCalculator](https://task-management-app-jekode.vercel.app/login)) — A real-time task organizer built with React, Vite & Firebase.
+- [**Interview Preparation Platform**](https://github.com/JekenMaharjan/Interview-Preparation-Platform.git) — A frontend-only interview preparation platform to help developers track topics, progress, and notes while preparing for technical interviews. 
+- [**Personal Portfolio**](https://github.com/JekenMaharjan/my-portfolio.git) — Personal Portfolio built using Next.js, TailwindCSS, and ShadCN UI featuring project showcase, skills, and dynamic sections.  
+- [**Lottery Game**](https://github.com/JekenMaharjan/Lottery-Game.git) — A fun slot machine where you have 3 lives to match symbols. Win and enjoy a confetti celebration! 
+- [**Task Management App**](https://github.com/JekenMaharjan/task-management-app.git) — A real-time task organizer built with React, Vite & Firebase.
   
 ---
 
