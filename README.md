@@ -61,12 +61,6 @@
   
 ---
 
-## 👁‍🗨 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=JekenMaharjan&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
 ## 🌐 Connect with Me
 
 > 🌐 Portfolio: [**jekenmaharjan.com.np**](https://jekenmaharjan.com.np)
