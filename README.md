@@ -8,20 +8,20 @@
 
 ## 💫 About Me
 
-- 🧑‍💻 Currently exploring **MERN Stack** & **Laravel**
-- 📚 Learning & building side projects
-- 🎯 Goal: To become a **Professional Software Engineer**
-- 🎓 Data Fellowship 2025 | Data Fellowship 2026 | GitHub Foundation Certified
+- Currently exploring **MERN Stack** & **Laravel**
+- Learning & building side projects
+- Goal: To become a **Professional Software Engineer**
+- Data Fellowship 2025 | Data Fellowship 2026 | GitHub Foundation Certified
   
 ---
 
 ## 🛠️ Tools I Use
 
-- 💻 VS Code, GitHub
-- 🔧 Postman, MongoDB Compass, phpMyAdmin
-- 🎨 Canva
-- ⚙️ npm, Vite, XAMPP
-- 🚀 Vercel, Netlify
+- VS Code, GitHub
+- Postman, MongoDB Compass, phpMyAdmin
+- Canva
+- npm, Vite, XAMPP
+- Vercel, Netlify
   
 ---
 
@@ -52,20 +52,20 @@
 
 ## 🚀 Featured Projects
 
-- 🛒 [**OfficeCare**](https://github.com/JekenMaharjan/OfficeCare) — MERN E-commerce for office appliances  
-- 🧠 [**Text Summarizer**](https://github.com/JekenMaharjan/Text-Summarizer) — Python NLP-based auto summarizer  
-- 🎮 [**Lottery Game**](https://github.com/JekenMaharjan/LotteryGame) — Mini fun project in React  
-- 🔢 [**Advanced Calculator**](https://github.com/JekenMaharjan/AdvancedCalculator) — Smart calculator built using React.js
+- [**Interview Preparation Platform **](https://github.com/JekenMaharjan/Interview-Preparation-Platform) — A frontend-only interview preparation platform to help developers track topics, progress, and notes while preparing for technical interviews. 
+- [**Personal Portfolio**](https://github.com/JekenMaharjan/my-portfolio) — Personal Portfolio built using Next.js, TailwindCSS, and ShadCN UI featuring project showcase, skills, and dynamic sections.  
+- [**Lottery Game**](https://github.com/JekenMaharjan/LotteryGame) — A fun slot machine where you have 3 lives to match symbols. Win and enjoy a confetti celebration! 
+- [**Task Management App**]([https://github.com/JekenMaharjan/AdvancedCalculator](https://task-management-app-jekode.vercel.app/login)) — A real-time task organizer built with React, Vite & Firebase.
   
 ---
 
 ## 🌐 Connect with Me
 
-> 🌐 Portfolio: [**jekenmaharjan.com.np**](https://jekenmaharjan.com.np)
+> Portfolio: [**jekenmaharjan.com.np**](https://jekenmaharjan.com.np)
 
 > [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jekenmaharjan/)  [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/JekenMaharjan)  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://x.com/JekenMaharjan)  [![Linktree](https://img.shields.io/badge/-Connect-43E660?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/JekenMaharjan)
 
-📬 Email: [maharjanjeken@gmail.com](mailto:maharjanjeken@gmail.com)
+Email: [maharjanjeken@gmail.com](mailto:maharjanjeken@gmail.com)
 
 ---
 
