@@ -2,28 +2,26 @@
 
 
 💻 Computer Engineer | Full-Stack Developer  
-🚀 Passionate about building web apps and solving real-world problems
+🚀 Passionate about building full-stack web apps and solving real-world problems
 
 ---
 
 ## 💫 About Me
 
 - 🧑‍💻 Currently exploring **MERN Stack** & **Laravel**
-- 📚 Learning in public & building side projects
+- 📚 Learning & building side projects
 - 🎯 Goal: To become a **Professional Software Engineer**
-- 🌱 Currently working on **OfficeCare** (an e-commerce platform)
-- 🎓 Data Fellowship 2025 | GitHub Foundation Certified
+- 🎓 Data Fellowship 2025 | Data Fellowship 2026 | GitHub Foundation Certified
   
 ---
 
 ## 🛠️ Tools I Use
 
-- 💻 VS Code, GitHub, Git Bash
+- 💻 VS Code, GitHub
 - 🔧 Postman, MongoDB Compass, phpMyAdmin
 - 🎨 Canva
 - ⚙️ npm, Vite, XAMPP
-- 🚀 Vercel
-- 📌 Notion, GitHub Projects
+- 🚀 Vercel, Netlify
   
 ---
 
