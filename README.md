@@ -27,11 +27,37 @@
 
 ## 🔧 Tech Stack
 
-[LinkedIn](https://www.linkedin.com/in/jekenmaharjan/) •
-[GitHub](https://github.com/JekenMaharjan) •
-[Twitter](https://x.com/JekenMaharjan) •
-[Linktree](https://linktr.ee/JekenMaharjan)
+## 🛠️ Tech Stack
 
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-181717?style=for-the-badge&logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-181717?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-181717?style=for-the-badge&logo=bootstrap)
+
+### 🧠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-181717?style=for-the-badge&logo=express)
+![PHP](https://img.shields.io/badge/PHP-181717?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-181717?style=for-the-badge&logo=laravel)
+![Flask](https://img.shields.io/badge/Flask-181717?style=for-the-badge&logo=flask)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=for-the-badge&logo=mongodb)
+
+### ⚙️ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=postman)
+
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-181717?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-181717?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python)
 
 ---
 
