@@ -69,11 +69,11 @@
 
 ## 🌐 Connect with Me
 
-> Portfolio: [**jekenmaharjan.com.np**](https://jekenmaharjan.com.np)  
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jekenmaharjan/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JekenMaharjan)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JekenMaharjan)
 [![Linktree](https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/JekenMaharjan)  
+> Portfolio: [**jekenmaharjan.com.np**](https://jekenmaharjan.com.np)  
 > Email: [maharjanjeken@gmail.com](mailto:maharjanjeken@gmail.com)
 
 > _Thanks for visiting my profile!_
