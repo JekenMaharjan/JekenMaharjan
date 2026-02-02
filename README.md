@@ -1,7 +1,7 @@
 # 👋 Hi!, I'm Jeken Maharjan
 
 
-💻 Computer Engineer | Full-Stack Developer  
+💻 Computer Engineer 
 🚀 Passionate about building full-stack web apps and solving real-world problems
 
 ---
@@ -21,7 +21,7 @@
 - Postman, MongoDB Compass, phpMyAdmin
 - Canva
 - npm, Vite, XAMPP
-- Vercel, Netlify
+- Vercel, Netlify, Render
   
 ---
 
@@ -62,13 +62,9 @@
 ## 🌐 Connect with Me
 
 > Portfolio: [**jekenmaharjan.com.np**](https://jekenmaharjan.com.np)
-
 > [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jekenmaharjan/)  [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/JekenMaharjan)  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://x.com/JekenMaharjan)  [![Linktree](https://img.shields.io/badge/-Connect-43E660?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/JekenMaharjan)
+> Email: [maharjanjeken@gmail.com](mailto:maharjanjeken@gmail.com)
 
-Email: [maharjanjeken@gmail.com](mailto:maharjanjeken@gmail.com)
 
----
-
-> *Fun Fact:* I go by the nickname **Jekode** — blending code with my name 😊
 
 > _Thanks for visiting my profile!_
