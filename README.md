@@ -1,16 +1,17 @@
 # 👋 Hi!, I'm Jeken Maharjan
 
-💻 Computer Engineer  
-🚀 Passionate about building full-stack web apps and solving real-world problems
+Computer Engineer focused on building clean, scalable full-stack web applications.
+
+I enjoy turning ideas into practical products and continuously improving my engineering skills through real-world projects.
 
 ---
 
 ## 💫 About Me
 
-- Currently exploring **MERN Stack** & **Laravel**
-- Learning & building side projects
-- Goal: To become a **Professional Software Engineer**
-- Data Fellowship 2025 | Data Fellowship 2026 | GitHub Foundation Certified
+- Building full-stack applications using MERN and Laravel
+- Strengthening backend fundamentals (APIs, databases, authentication)
+- Preparing for professional software engineering roles
+- Career Goal: To grow into a professional software engineer with strong backend expertise and the ability to design reliable, production-ready systems.
   
 ---
 
@@ -51,19 +52,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=postman)
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-181717?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-181717?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python)
-
 ---
 
 ## 🚀 Featured Projects
 
-- [**Interview Preparation Platform**](https://github.com/JekenMaharjan/Interview-Preparation-Platform.git) — A frontend-only interview preparation platform to help developers track topics, progress, and notes while preparing for technical interviews. 
-- [**Personal Portfolio**](https://github.com/JekenMaharjan/my-portfolio.git) — Personal Portfolio built using Next.js, TailwindCSS, and ShadCN UI featuring project showcase, skills, and dynamic sections.  
-- [**Lottery Game**](https://github.com/JekenMaharjan/Lottery-Game.git) — A fun slot machine where you have 3 lives to match symbols. Win and enjoy a confetti celebration! 
-- [**Task Management App**](https://github.com/JekenMaharjan/task-management-app.git) — A real-time task organizer built with React, Vite & Firebase.
+- [**Interview Preparation Platform**](https://github.com/JekenMaharjan/Interview-Preparation-Platform.git) — Frontend application to help developers organize interview topics, track progress, and manage preparation notes. 
+- [**Personal Portfolio**](https://github.com/JekenMaharjan/my-portfolio.git) — Portfolio website built with Next.js and TailwindCSS to showcase projects and technical skills.  
+- [**Task Management App**](https://github.com/JekenMaharjan/task-management-app.git) — Real-time task management system built using React and Firebase.
+- [**Lottery Game**](https://github.com/JekenMaharjan/Lottery-Game.git) — A simple interactive slot-style game built with React. 
   
 ---
 
