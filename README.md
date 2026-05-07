@@ -47,7 +47,7 @@ I enjoy turning ideas into practical products and continuously improving my engi
 ![MySQL](https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=for-the-badge&logo=mongodb)
 
-### ⚙️ Tools & DevOps
+### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=postman)
